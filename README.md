@@ -1,2 +1,3 @@
 # QuickGraph
-Clone from QuickGraph project (https://quickgraph.codeplex.com)changeset 69709
+Fork from QuickGraph project (https://quickgraph.codeplex.com)
+from changeset #69709
